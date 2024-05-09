@@ -133,7 +133,7 @@ export const songsData = [
         image: img1,
         file:song1,
         album:"Talwinder",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Hasan Raheem-Wishes ft Talwiinder|Prod by Umair",
         duration:"3:38"
     },
     {
@@ -142,7 +142,7 @@ export const songsData = [
         image: img2,
         file:song2,
         album:"Raghav Chaitanya",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"ANIMAL: Hua Main |Ranbir Kapoor|Rashmika M",
         duration:"4:35"
     },
     {
@@ -151,7 +151,7 @@ export const songsData = [
         image: img3,
         file:song3,
         album:"Sachet-Parampara",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Song that evokes the emotion of heartbreak & love at once!",
         duration:"5:53"
     },
     {
@@ -160,7 +160,7 @@ export const songsData = [
         image: img4,
         file:song4,
         album:"Anuv Jain",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Mere husn ke ilawa Kabhi dil bhi maang lo na",
         duration:"3:59"
     },
     {
@@ -169,7 +169,7 @@ export const songsData = [
         image: img5,
         file:song5,
         album:"Anirudh Ravichander",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"JAWAN: Chaleya (Hindi) | Shah Rukh Khan | Nayanthara",
         duration:"3:08"
     },
     {
@@ -178,7 +178,7 @@ export const songsData = [
         image: img6,
         file:song6,
         album:"Vishal Mishra",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"ANIMAL:Pehle Bhi Main| Ranbir Kapoor,Tripti Dimri",
         duration:"4:08"
     },
     {
@@ -187,7 +187,7 @@ export const songsData = [
         image: img7,
         file:song7,
         album:"Talwinder , NDS",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Performed by Talwiinder produced by NDS",
         duration:"3:37"
     },
     {
@@ -196,7 +196,7 @@ export const songsData = [
         image: img17,
         file:song8,
         album:"Diljit Dosanjh",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Diljit Dosanjh: Lalkaara Feat. Sultaan | GHOST",
         duration:"2:40"
     },
     {
@@ -205,7 +205,7 @@ export const songsData = [
         image: img18,
         file:song9,
         album:"Bayaan",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Bayaan - Nahin Milta",
         duration:"4:39"
     },
     {
