@@ -214,7 +214,7 @@ export const songsData = [
         image: img19,
         file:song10,
         album:"Yo Yo Honey Singh",
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"The OG Honey Singh",
         duration:"4:39"
     }
 ]
